@@ -1,2 +1,2 @@
 #!/bin/bash
-PYCODE='print("python3")
+print('python3 $PYCODE')
