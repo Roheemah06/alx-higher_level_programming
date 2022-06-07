@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-for alphabet in "abcdefghijklmnopqrstuvwxyz":
-    print(alphabet)
+i = ''
+For k in 'abcde':
+    i+=k
+print(i)
