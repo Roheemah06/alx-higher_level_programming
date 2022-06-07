@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-i = ''
-For k in 'abcde':
-    i+=k
-print(i)
+for letter in range(97, 123):
+    print("{}".format(chr(letter)))
